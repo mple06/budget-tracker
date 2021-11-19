@@ -30,7 +30,7 @@ Users can:
 
 NPM Install and NPM start
 
-Link to deployed application:
+<a href="https://trackmymonies.herokuapp.com/">Deployed Ap</a>
 
 ---
 
