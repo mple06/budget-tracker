@@ -5,6 +5,7 @@
 A budget tracker application that allow users to track their money online and offline!
 
 Users can: 
+
     -   enter the name of transaction 
     -   enter amount of transaction
     -   add or subtract from their budget
@@ -36,6 +37,7 @@ Link to deployed application:
 
 ## Usage
 
+![image](https://user-images.githubusercontent.com/90426657/142701323-89f492ad-4960-449b-af6f-60c6f624a86f.png)
 
 
 ---
