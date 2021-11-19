@@ -10,7 +10,7 @@ Users can:
     -   enter amount of transaction
     -   add or subtract from their budget
     -   see a graph of their transactions
-    -   transactions work online and offline to give users an accurate tracking
+    -   transactions work online and offline to give users an accurate tracking whether they have service or not. 
     
 ---
 
